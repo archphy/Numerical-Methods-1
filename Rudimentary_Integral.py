@@ -6,6 +6,7 @@ Created on Sun Oct 05 20:27:31 2014
 """
 
 #function used for everything
+# Define Functions here 
 def function(x):
     return x**3 - 0.165*x**2 + 3.993*10**(-4)
 #program to compute the left riemann sum .... 
